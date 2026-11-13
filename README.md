@@ -1,3 +1,5 @@
+## LootCrateSystem
+
 ## Om programmet
 Spillere kan bruge credits på at åbne forskellige crates og modtage genstande. Spillernes credits administreres automatisk, og de genstande, de modtager, gemmes i deres inventory.
 
